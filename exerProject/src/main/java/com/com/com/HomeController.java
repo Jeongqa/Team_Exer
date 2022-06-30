@@ -36,5 +36,4 @@ public class HomeController {
 		return "home";
 	}
 	
-	//hi
-}
+}	//하이배고프다
